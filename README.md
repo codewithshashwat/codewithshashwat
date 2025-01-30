@@ -17,5 +17,5 @@
 
 ## How to Reach Me
 
-- 🌐 **Portfolio**: [https://www.shashwatpritish.github.io]  
+- 🌐 **Portfolio**: [https://www.codewithshashwat.github.io]  
 - 📧 **Email**: [pritishshashwat@gmail.com]  
