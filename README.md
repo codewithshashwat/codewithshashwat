@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Shashwat 👋
 
-<!--
-**codewithshashwat/codewithshashwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Shashwat's Photo](./Profile.png)  <!-- Replace with your image URL -->
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate developer and tech enthusiast always learning new frameworks and tools.  
+💻 I specialize in **Web Development** with **Django**, **React**, and **Next.js**.  
+🌱 Constantly improving my skills and contributing to open-source projects.  
+🎯 Currently focusing on building scalable and interactive applications.
+
+## Technologies & Frameworks
+
+- ![Django](https://img.shields.io/badge/Django-092e20?logo=django&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+
+## How to Reach Me
+
+- 🌐 **Portfolio**: [https://www.shashwatpritish.github.io]  
+- 📧 **Email**: [pritishshashwat@gmail.com]  
