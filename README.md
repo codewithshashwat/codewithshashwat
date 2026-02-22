@@ -1,7 +1,5 @@
 # Hello, I'm Shashwat 👋
 
-![Shashwat's Photo]([https://photos.fife.usercontent.google.com/pw/AP1GczONIYkLNsxKn8uWvBPb8jTQNwfTakDh4POp3k42IqFiOIq0TvdKwHzD=w863-h864-s-no-gm?authuser=0])  <!-- Replace with your image URL -->
-
 ## About Me
 
 🚀 Passionate developer and tech enthusiast always learning new frameworks and tools.  
